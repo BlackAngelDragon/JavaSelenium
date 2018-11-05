@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="tests.Tests" duration-ms="47048" started-at="2018-11-04T10:41:15 PST" finished-at="2018-11-04T10:42:02 PST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="47048" started-at="2018-11-04T10:41:15 PST" finished-at="2018-11-04T10:42:02 PST">
+      <class name="tests.Tests">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:tests.Tests@396a51ab]" name="SetUp" is-config="true" duration-ms="3326" started-at="2018-11-04T10:41:15 PST" finished-at="2018-11-04T10:41:18 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="prubaDos()[pri:0, instance:tests.Tests@396a51ab]" name="prubaDos" duration-ms="13797" started-at="2018-11-04T10:41:18 PST" finished-at="2018-11-04T10:41:32 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prubaDos -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.Tests@396a51ab]" name="tearDown" is-config="true" duration-ms="90" started-at="2018-11-04T10:41:32 PST" finished-at="2018-11-04T10:41:32 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=prubaDos status=SUCCESS method=Tests.prubaDos()[pri:0, instance:tests.Tests@396a51ab] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:tests.Tests@396a51ab]" name="SetUp" is-config="true" duration-ms="3309" started-at="2018-11-04T10:41:32 PST" finished-at="2018-11-04T10:41:35 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="prubaUno()[pri:0, instance:tests.Tests@396a51ab]" name="prubaUno" duration-ms="7744" started-at="2018-11-04T10:41:35 PST" finished-at="2018-11-04T10:41:43 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prubaUno -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.Tests@396a51ab]" name="tearDown" is-config="true" duration-ms="86" started-at="2018-11-04T10:41:43 PST" finished-at="2018-11-04T10:41:43 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=prubaUno status=SUCCESS method=Tests.prubaUno()[pri:0, instance:tests.Tests@396a51ab] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:tests.Tests@396a51ab]" name="SetUp" is-config="true" duration-ms="2680" started-at="2018-11-04T10:41:43 PST" finished-at="2018-11-04T10:41:46 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="pruebaCantidadCampos()[pri:0, instance:tests.Tests@396a51ab]" name="pruebaCantidadCampos" duration-ms="16" started-at="2018-11-04T10:41:46 PST" finished-at="2018-11-04T10:41:46 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pruebaCantidadCampos -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.Tests@396a51ab]" name="tearDown" is-config="true" duration-ms="52" started-at="2018-11-04T10:41:46 PST" finished-at="2018-11-04T10:41:46 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=pruebaCantidadCampos status=SUCCESS method=Tests.pruebaCantidadCampos()[pri:0, instance:tests.Tests@396a51ab] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:tests.Tests@396a51ab]" name="SetUp" is-config="true" duration-ms="2710" started-at="2018-11-04T10:41:46 PST" finished-at="2018-11-04T10:41:48 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="pruebaTres()[pri:0, instance:tests.Tests@396a51ab]" name="pruebaTres" duration-ms="13129" started-at="2018-11-04T10:41:48 PST" finished-at="2018-11-04T10:42:02 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pruebaTres -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:tests.Tests@396a51ab]" name="tearDown" is-config="true" duration-ms="79" started-at="2018-11-04T10:42:02 PST" finished-at="2018-11-04T10:42:02 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=pruebaTres status=SUCCESS method=Tests.pruebaTres()[pri:0, instance:tests.Tests@396a51ab] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.Tests -->
+    </test> <!-- Command line test -->
+  </suite> <!-- tests.Tests -->
+</testng-results>
